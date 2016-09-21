@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://cjae.github.io
+title: Osagie Omon
+tagline: A log of everyday life
+description: I just try to be to life what I see in my head.
+paginate: 5
